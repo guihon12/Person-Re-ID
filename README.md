@@ -6,4 +6,4 @@ environments
 download links
 
 - cuhk data: https://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html
-- weight: https://drive.google.com/drive/folders/12PraqDzslCJKW7X80C0g04STsVY9EAb3?usp=sharing
+- TriNet weight: https://drive.google.com/drive/folders/12PraqDzslCJKW7X80C0g04STsVY9EAb3?usp=sharing
