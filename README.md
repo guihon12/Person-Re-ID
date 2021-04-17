@@ -11,4 +11,4 @@ Training
 
 Evaluation
 - src/gen_npy.py (extract embedding vectors from person images)
-- src/evaluate.py (evaluate)
+- src/evaluate.py (evaluate the model and perform the re-identification)
