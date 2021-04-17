@@ -10,10 +10,5 @@ Training
 - src/train_tripletloss.py
 
 Evaluation
-1. extract embedding vector from person images
-
-  src/gen_npy.py
-
-2. evaluate
-
-  src/evaluate.py
+- src/gen_npy.py (extract embedding vector from person images)
+- src/evaluate.py (evaluate)
