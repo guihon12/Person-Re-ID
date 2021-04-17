@@ -11,6 +11,8 @@ Training
 
 Evaluation
 1. extract embedding vector from person images
+
   -> src/gen_npy.py
 2. evaluate
+
   -> src/evaluate.py
